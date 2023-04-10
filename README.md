@@ -1,6 +1,6 @@
-# Task Manager App
+# Todo App
 
-This is a simple task manager app built with React, which allows you to add, delete, and mark tasks as complete. You can also filter active and completed tasks, store tasks in local storage, and switch between light and dark theme.
+This is a simple todo app built with React, which allows you to add, delete, and mark tasks as complete. You can also filter active and completed tasks, store tasks in local storage, and switch between light and dark theme.
 
 ## Features
 
